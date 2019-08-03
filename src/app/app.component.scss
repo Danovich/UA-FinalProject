@@ -1,0 +1,16 @@
+// $color-info: #4bb1cf;
+// $color-danger: #ED4F32;
+// $color-primary: #288feb;
+// $color-success: #15CD72;
+// $color-warning: #EDE04D;
+// $color-muted: #ECECEC;
+
+:host {
+  width: 100%;
+}
+
+.wrapper {
+  max-width: 800px;
+  width: 96%;
+  margin: 0 auto;
+}
